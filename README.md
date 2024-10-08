@@ -61,16 +61,3 @@ Each script is designed to demonstrate a specific topic or functionality. Here a
    ```bash
    git clone https://github.com/rahulsingh2203/shellScript.git
    cd shellScript
-Run a Script: Make sure the script is executable:
-
-bash
-
-chmod +x script_name.sh
-
-Then run the script:
-
-bash
-
-./script_name.sh
-
-Explore: Feel free to modify the scripts to suit your needs and experiment with different functionalities!
